@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../caio_project/sqlite"
+		}
+	],
+	"settings": {}
+}

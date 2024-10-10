@@ -1,0 +1,20 @@
+appId: com.example.nextron
+productName: OpenStore
+copyright: 
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+      - finish.db
+extraResources:
+  - from: resources/sqlite3.def
+    to: ./sqlite3.def
+  - from: resources/sqlite3.dll
+    to: ./sqlite3.dll
+  
+publish: null
+

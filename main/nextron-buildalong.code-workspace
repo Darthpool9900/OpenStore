@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../caio_project/database"
+		},
+		{
+			"path": "../../../caio_project/config"
+		}
+	],
+	"settings": {}
+}
