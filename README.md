@@ -33,7 +33,7 @@ Este é um gerenciador de sistema de armazenamento local totalmente gratuito e d
   1. O banco de dados é local, portanto não é compartilhado por redes e em caso de transferencia deverá ser feito um backup do aplicativo
   2. A qualidade de impressão do código de barras depende támbem da impressora a ser usada
 
-#Quero ajudar neste projeto implementando novas funções como fazer?
+# Quero ajudar neste projeto implementando novas funções como fazer?
 
 1. Dê um fork neste projeto
 2. No seu terminal git digit
