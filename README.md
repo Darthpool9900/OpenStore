@@ -36,7 +36,7 @@ Este é um gerenciador de sistema de armazenamento local totalmente gratuito e d
 # Quero ajudar neste projeto implementando novas funções como fazer?
 
 1. Dê um fork neste projeto
-2. No seu terminal git digit
+2. No seu terminal git digite
 ```
 git clone 'nome do repositório'
 ```
