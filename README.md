@@ -18,11 +18,11 @@ Este é um gerenciador de sistema de armazenamento local totalmente gratuito e d
     - Aqui você devera escolher se quer excluir apenas certa quantia ou o produto inteiro
     - ![image](https://github.com/user-attachments/assets/1568ef74-8b28-4a3f-901e-d369bd1264a7)
    
-##Como eu apenas atualizo as informações do produto?
+## Como eu apenas atualizo as informações do produto?
 - Apenas vá ao menu atualizar produto e digite o nome ou código de produto que deseja realizar as informações e insera as informações que deseja atualizar.
   ![image](https://github.com/user-attachments/assets/7bedc2f5-ca76-4eaf-a7c8-ea3e0e79e14c)
 
-##Preciso gera um código de barras e imprimir, como faço?
+## Preciso gera um código de barras e imprimir, como faço?
 
 - Vá ao menu Gerar código de barras, ao entrar um código irá ser gerado porém se necessário clique no batão "Gerar Novo Código" e um novo será gerado.
   ![image](https://github.com/user-attachments/assets/326fdda4-64c4-4bfe-a2a0-9b3d04379d8b)
